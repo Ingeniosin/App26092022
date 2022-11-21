@@ -1,4 +1,4 @@
-﻿namespace App13092022.Utils; 
+﻿namespace App26092022.Utils; 
 
 public abstract class Algorithm {
    public string Name { get; }
